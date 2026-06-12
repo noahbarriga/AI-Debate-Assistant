@@ -1,2 +1,3 @@
 # AI-Debate-Assistant
 This is an assistant AI model called Albert who will scrutinize, critique and develop preconceived ideas. This is best used to help the user have a stronger position in debates. I want to solve the problem of people firmly holding their ideas without ever truly questioning them. I provided the AI model with a corpus of data on how to debate, helping it understand what concrete reasoning and structure looks like. Though this is not just a debate assistant. It first questions the debate itself. Questioning these ideas is a necessity for everyone. It has the power to not only change how you live, but how others do as well. 
+https://file-manager--noahbarriga.replit.app
